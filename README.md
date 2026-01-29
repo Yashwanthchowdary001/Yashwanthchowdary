@@ -17,178 +17,81 @@ Data Engineer · AI Engineer · Cloud & Big Data · Machine Learning
 
 Data Engineer / AI Engineer with **4+ years of experience** designing and delivering **cloud-native data platforms**, **real-time streaming pipelines**, and **machine learning solutions**. Proven ability to process **terabytes of data**, reduce system latency, and deliver analytics and AI solutions that support business decision-making.
 
-Experienced across **AWS, Azure, GCP**, big data ecosystems, ML frameworks, and full-stack development.
-
 📍 Austin, Texas, USA
 
 ---
 
-## 🧪 Projects (Selected Work)
+## 🧠 Power Levels (Tech Stack)
 
-### ✈️ Flight Price Prediction — Machine Learning
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="420"/>
-</p>
-
-- Built supervised ML models to predict airline ticket prices using historical flight data  
-- Performed exploratory data analysis, feature engineering, and regression modeling  
-- Trained Linear Regression, Decision Tree, and Random Forest models  
-- Achieved **R² ≈ 0.82** with significantly reduced RMSE  
-
-**Technologies:** Python, Pandas, NumPy, scikit-learn, Jupyter
-
----
-
-### 🏘️ Rental Management System — Full-Stack Application
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="420"/>
-</p>
-
-- Designed and developed an end-to-end rental management platform  
-- Implemented tenant onboarding, payments, maintenance tracking, and RBAC  
-- Deployed secure, scalable backend services in the cloud  
-
-**Technologies:** React, FastAPI / Node.js, PostgreSQL, AWS, Docker, JWT
+### ⚔️ Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
 ---
 
-### 🧠 Multilingual Healthcare Chatbot — NLP / BERT
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="420"/>
-</p>
-
-- Fine-tuned BERT for disease category prediction from user symptoms  
-- Enabled multilingual interaction (English, Hindi, Spanish)  
-- Designed system for ethical AI use (triage and guidance, not diagnosis)  
-
-**Technologies:** Python, Hugging Face, Flask, NLP APIs
-
----
-
-### 🚗 Car Rental Management System — Database & SQL
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVpWg8z9yXn5jG/giphy.gif" width="420"/>
-</p>
-
-- Designed normalized relational schema (3NF)  
-- Implemented constraints, indexes, joins, and transactions  
-- Built analytical queries for reporting and availability tracking  
-
-**Technologies:** MySQL, PostgreSQL, SQL, ER Modeling
+### ☁️ Cloud & Big Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
+![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop)
+![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge)
+![Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge)
 
 ---
 
-### 🌱 Carbon Footprint Analysis of Large Language Models
-<p align="center">
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="420"/>
-</p>
-
-- Analyzed carbon emissions of training and inference for major LLMs  
-- Compared AI emissions to real-world human activities  
-- Built sustainability-focused visualizations  
-
-**Technologies:** Python, Data Analysis, Visualization
+### 🔥 Backend & Frontend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass)
 
 ---
 
-### 🎬 Movie Recommendation System — Machine Learning
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="420"/>
-</p>
-
-- Built personalized movie recommendation engine  
-- Implemented collaborative, content-based, and hybrid models  
-- Evaluated models using precision, recall, and RMSE  
-
-**Technologies:** Python, Pandas, scikit-learn, Matplotlib
+### 🗄️ Databases & Warehousing
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra)
 
 ---
 
-### 🏦 Lloyds Banking Group — Data Science Simulation
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="420"/>
-</p>
-
-- Built customer churn prediction models using Random Forest  
-- Achieved **ROC-AUC ≈ 0.82**  
-- Applied feature engineering and GridSearchCV  
-
-**Technologies:** Python, scikit-learn, pandas
+### 🤖 ML, Analytics & BI
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge)
 
 ---
 
-### 🛒 Walmart USA — Advanced Software Engineering
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="420"/>
-</p>
-
-- Implemented custom Heap data structure in Java  
-- Designed UML class diagrams and ER models  
-
-**Technologies:** Java, Data Structures, UML, SQL
-
----
-
-## 💻 Technical Skills
-
-**Programming & Query Languages:**  
-C, Java, JavaScript, Python, R, Scala, .NET, SQL, GraphQL
-
-**Cloud Platforms:**  
-AWS, Microsoft Azure, Google Cloud Platform (GCP)
-
-**Big Data & Streaming:**  
-Apache Spark, Apache Kafka, Apache Hadoop, Apache Hive, Apache Flink, Apache Airflow
-
-**Backend & APIs:**  
-FastAPI, Flask, Django, Node.js, Apollo GraphQL, TypeGraphQL
-
-**Frontend:**  
-React, Angular, AngularJS, SASS
-
-**Databases:**  
-PostgreSQL, MySQL, MongoDB, Neo4j, SQLite, Microsoft SQL Server,  
-Amazon DynamoDB, Apache Cassandra, Snowflake, Realm
-
-**Machine Learning & Data Science:**  
-NumPy, Pandas, SciPy, scikit-learn, TensorFlow, PyTorch, Keras,  
-Matplotlib, Plotly, MLflow, Anaconda
-
-**DevOps & Infrastructure:**  
-Git, GitHub, GitLab, GitHub Actions, GitLab CI, Jenkins, CloudBees,  
-Docker, Kubernetes, Terraform
-
-**Monitoring & BI:**  
-Power BI, Grafana, Prometheus, Jira
-
----
-
-## 📜 Licenses & Certifications
-
-- **AWS Certified Data Engineer – Associate**  
-  Amazon Web Services · Issued Jul 2025 · Expires Jul 2028  
-  Credential ID: 579dc4ccadfe477f8a0c72ac15da515e
-
-- **Microsoft Certified: Power BI Data Analyst Associate**  
-  Microsoft · Issued Apr 2025 · Expires Apr 2026  
-  Credential ID: B2B383BA608B56F7
-
-- **Lloyds Banking Group – Data Science Job Simulation**  
-  Forage · Issued Aug 2025  
-  Credential ID: 2yjPL3YF4raiew6Kn  
-  Skills: OpenAI API, Hugging Face
-
-- **Walmart USA – Advanced Software Engineering Job Simulation**  
-  Forage · Issued Aug 2025  
-  Credential ID: FwKommtWnSdRWfjPa
-
-- **Data Analysis with Python (DA0101EN)**  
-  IBM
+### 🚀 DevOps & Tooling
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
+![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 
 ---
 
 ## ✍️ Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
 </p>
@@ -196,7 +99,6 @@ Power BI, Grafana, Prometheus, Jira
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/yeshwanthc564/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>

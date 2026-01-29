@@ -26,7 +26,7 @@ I’m **Yaswanth Chowdary M.**, a **Data Engineer / AI Engineer** with 4+ years 
 
 ---
 
-## 🧪 Projects (Animated Showcase)
+## 🧪Academic Projects
 
 ---
 

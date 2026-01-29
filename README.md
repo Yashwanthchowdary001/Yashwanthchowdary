@@ -1,18 +1,181 @@
-# Yashwanth Manne
-# 💫 About Me:
-I’m a data engineer with over 5 years of experience across AWS and Azure ecosystems. I design and optimize scalable data pipelines, real-time processing systems, and analytical solutions that enable enterprise-scale decision-making. I’ve built robust data pipelines using AWS Glue, PySpark, Redshift, and Azure Data Lake that process terabytes of data weekly, improving data accessibility and reliability by over 40%. By integrating Kafka for real-time event streaming, I reduced reporting latency by 60%, enabling faster operational decisions. My predictive models and BI dashboards developed with Python, SQL, Power BI, Tableau, and Snowflake have enhanced forecasting accuracy and improved SLA compliance for executive reporting. I also automated CI/CD and monitoring frameworks to increase pipeline resilience and cut downtime by 30%. I thrive at the intersection of data engineering, data science, and analytics, empowering organizations to harness their data, anticipate trends, and make smarter, data-driven decisions.
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=250&section=header&text=Yaswanth%20Chowdary%20M.&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
+<h3 align="center">
+⚔️ AI Data Engineer | ☁️ Cloud Architect | 📊 Big Data Specialist  
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yeshwanthc564/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Yashwanthchowdary80@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=From+Raw+Data+to+Executive+Decisions;AWS+%7C+Azure+%7C+GCP+%7C+Spark+%7C+Kafka;FAANG-Ready+Data+Engineering+Profile;Welcome+to+my+Digital+Dojo!" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=@Yashwanthchowdary001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎌 Anime Lore (Who Am I?)
+
+> *“In a cyberpunk world overflowing with data, one engineer masters the flow…”*
+
+I’m **Yaswanth Chowdary M.**, a **Data Engineer / AI Engineer** with **4+ years of experience** building **cloud-scale, real-time data platforms** across **AWS, Azure, and GCP**.
+
+🌀 Process **terabytes of data weekly**  
+⚡ Reduced analytics latency by **60% using Kafka**  
+🛡️ Improved pipeline resilience & cut downtime by **30%**  
+📈 Built BI dashboards driving executive decisions  
+
+📍 **Austin, Texas, USA**
+
+---
+
+## 🧠 Power Levels (Tech Stack)
+
+### ⚔️ Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ☁️ Cloud & Big Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+
+### 🔥 Backend & Analytics
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
+
+---
+
+## 🏆 Achievements Unlocked
+
+🏅 AWS Certified Data Engineer – Associate  
+🏅 Microsoft Certified: Power BI Data Analyst  
+🏅 Lloyds Banking Group – Data Science Simulation  
+🏅 Walmart USA – Advanced Software Engineering Simulation  
+🏅 IBM – Data Analysis with Python  
+
+---
+
+## 🧭 Career Arcs
+
+### 🏢 UnitedHealth Group — *Data Engineer / AI Engineer*
+📍 Austin, TX | *June 2024 – Present*  
+- Architected scalable cloud data pipelines  
+- Built real-time streaming systems & AI-driven analytics  
+- Improved SLA compliance and executive reporting  
+
+### 🏥 Tata 1mg — *Data Engineer*
+📍 Bengaluru, India | *2020 – 2022*  
+- Designed Spark-based batch & streaming pipelines  
+- Optimized analytics workflows for scale  
+
+### 🧩 OneAdvanced — *Data Analyst*
+📍 Hyderabad, India | *2019*  
+- Delivered BI dashboards & insights  
+
+---
+
+## 🧪 Project Scrolls (Signature Works)
+
+### ✈️ Flight Price Prediction — *Machine Learning*
+- Built supervised ML models to predict airline ticket prices  
+- Performed EDA, feature engineering & regression modeling  
+- Achieved **R² ≈ 0.82** with reduced RMSE  
+**Tech:** Python, scikit-learn, Pandas  
+
+---
+
+### 🏘️ Rental Management System — *Full-Stack*
+- End-to-end rental platform (listings, payments, maintenance)  
+- JWT auth, role-based access, cloud deployment  
+**Tech:** React, FastAPI / Node.js, PostgreSQL, AWS, Docker  
+
+---
+
+### 🧠 Multilingual Healthcare Chatbot — *BERT / NLP*
+- Fine-tuned BERT for disease prediction from symptoms  
+- Multilingual support (EN, HI, ES)  
+**Tech:** Hugging Face, Python, Flask  
+
+---
+
+### 🚗 Car Rental Management System — *Database & SQL*
+- Designed normalized relational schema (3NF)  
+- Built optimized queries for bookings & revenue  
+**Tech:** MySQL / PostgreSQL, SQL  
+
+---
+
+### 🌱 Carbon Footprint Analysis of LLMs — *AI Research*
+- Estimated CO₂ emissions of GPT, BERT, T5  
+- Built sustainability comparisons & visualizations  
+**Tech:** Python, Data Visualization  
+
+---
+
+### 🎬 Movie Recommendation System — *AI / ML*
+- Collaborative + content-based filtering  
+- Evaluated with precision, recall, RMSE  
+**Tech:** Python, scikit-learn, Pandas  
+
+---
+
+### 🏦 Lloyds Banking Group — *Data Science*
+- Customer churn prediction using Random Forest  
+- Achieved **ROC-AUC ≈ 0.82**  
+**Tech:** Python, scikit-learn  
+
+---
+
+### 🛒 Walmart USA — *Advanced Software Engineering*
+- Custom Heap implementation (Java)  
+- UML & ER design for enterprise systems  
+
+---
+
+## 📊 GitHub Battle Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanthchowdary001&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthchowdary001&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthchowdary001&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yeshwanthc564/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:yashwanthchowdary80@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧩 Recruiter Signal (FAANG Mode)
+
+✅ Cloud-native data engineering  
+✅ Real-time streaming (Kafka, Spark)  
+✅ Strong Python & SQL fundamentals  
+✅ Production-scale pipelines  
+✅ Business-impact mindset  
+
+> 💬 *Open to Senior Data Engineer / AI Engineer roles (USA)*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer" />
+</p>

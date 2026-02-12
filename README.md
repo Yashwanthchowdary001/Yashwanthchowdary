@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=240&section=header&text=Yaswanth%20Chowdary%20M.&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=240&section=header&text=Yaswanth%20Chowdary%20Manne.&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
